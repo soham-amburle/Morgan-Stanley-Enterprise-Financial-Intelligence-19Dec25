@@ -11,7 +11,7 @@ The solution is designed as a **10-dashboard analytics suite**, similar to real-
 
 ## Key Business Areas Covered
 - Executive financial performance & growth
-- Wealth management AUM and client segmentation
+- Wealth management performance
 - Investment banking revenue & deal pipeline
 - Trading performance and market risk
 - Client profitability and lifecycle analysis
