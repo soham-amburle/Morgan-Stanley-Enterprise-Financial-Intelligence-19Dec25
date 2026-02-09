@@ -1,4 +1,4 @@
-# Morgan Stanley – Enterprise Financial Intelligence Suite 
+# Morgan Stanley – Enterprise Financial Intelligence Suite
 
 ## Project Overview
 This project simulates an **enterprise-grade Business Intelligence solution** for a global investment bank like **Morgan Stanley**, built using **Power BI** and a large-scale **synthetic financial dataset**.
